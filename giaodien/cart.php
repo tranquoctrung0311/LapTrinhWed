@@ -24,7 +24,7 @@
 		border-bottom:solid 2px #000
 	}
 	#productCart{
-		width:100%;
+		width:100%;/*98.7%*/ 
 		height:400px;
 		overflow:auto
 	}
